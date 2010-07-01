@@ -1,0 +1,17 @@
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\Content\chair.xnb
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\Content\table.xnb
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\Content\chair_0.xnb
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\Content\dude.xnb
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\Content\head_0.xnb
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\Content\jacket_0.xnb
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\Content\pants_0.xnb
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\Content\upBodyC_0.xnb
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\SkinningSample.exe
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\SkinningSample.pdb
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\SkinnedModel.dll
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\SkinnedModel.pdb
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\obj\x86\Debug\SkinningSample.exe
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\obj\x86\Debug\SkinningSample.pdb
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\Content\SkinnedModel_0.xnb

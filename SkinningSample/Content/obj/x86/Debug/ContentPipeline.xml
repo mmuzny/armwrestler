@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>chair.fbx</Source>
+      <Name>chair</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\Content\chair.xnb</Output>
+      <Time>2010-03-03T00:39:49-08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\chair_0.xml</Key>
+        <Value>2010-05-02T12:14:15.75-07:00</Value>
+      </Dependency>
+      <Request>D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\Content\chair_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>table.fbx</Source>
+      <Name>table</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\Content\table.xnb</Output>
+      <Time>2008-09-15T15:19:50-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\table_0.xml</Key>
+        <Value>2010-05-02T12:14:16.21875-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>dude.fbx</Source>
+      <Name>dude</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\Content\dude.xnb</Output>
+      <Time>2010-05-02T11:26:33.625-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\dude_0.xml</Key>
+        <Value>2010-05-02T12:14:20.96875-07:00</Value>
+      </Dependency>
+      <Request>D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\Content\head_0.xnb</Request>
+      <Request>D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\Content\SkinnedModel_0.xnb</Request>
+      <Request>D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\Content\jacket_0.xnb</Request>
+      <Request>D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\Content\pants_0.xnb</Request>
+      <Request>D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\Content\upBodyC_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>chair.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\chair_0.xml</Output>
+      <Time>2010-03-03T00:39:49-08:00</Time>
+    </Item>
+    <Item>
+      <Source>chair.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\Content\chair_0.xnb</Output>
+      <Time>2009-07-12T04:53:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>table.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\table_0.xml</Output>
+      <Time>2008-09-15T15:19:50-07:00</Time>
+    </Item>
+    <Item>
+      <Source>dude.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\dude_0.xml</Output>
+      <Time>2010-05-02T11:26:33.625-07:00</Time>
+    </Item>
+    <Item>
+      <Source>D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\default\head.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\Content\head_0.xnb</Output>
+      <Time>2009-07-06T17:38:00-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SkinnedModel.fx</Source>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\Content\SkinnedModel_0.xnb</Output>
+      <Time>2009-04-28T10:44:30-07:00</Time>
+    </Item>
+    <Item>
+      <Source>D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\default\jacket.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\Content\jacket_0.xnb</Output>
+      <Time>2009-07-06T17:38:00-07:00</Time>
+    </Item>
+    <Item>
+      <Source>D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\default\pants.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\Content\pants_0.xnb</Output>
+      <Time>2009-07-06T17:38:00-07:00</Time>
+    </Item>
+    <Item>
+      <Source>D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\default\upBodyC.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\Content\upBodyC_0.xnb</Output>
+      <Time>2009-07-06T17:39:00-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinningSample\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll</Key>
+        <Value>2010-05-02T12:14:14.375-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T01:16:14-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T01:16:06-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T01:16:16-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T01:16:26-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T01:16:12-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T01:16:06-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-02-22T00:22:41.8125-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

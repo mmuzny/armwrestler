@@ -1,0 +1,7 @@
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.pdb
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.dll
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.pdb
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinnedModelPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.dll
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.pdb

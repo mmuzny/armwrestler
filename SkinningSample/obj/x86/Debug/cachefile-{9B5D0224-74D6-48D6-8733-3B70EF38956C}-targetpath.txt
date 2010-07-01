@@ -1,0 +1,9 @@
+Content\chair.xnb
+Content\table.xnb
+Content\dude.xnb
+Content\chair_0.xnb
+Content\head_0.xnb
+Content\SkinnedModel_0.xnb
+Content\jacket_0.xnb
+Content\pants_0.xnb
+Content\upBodyC_0.xnb

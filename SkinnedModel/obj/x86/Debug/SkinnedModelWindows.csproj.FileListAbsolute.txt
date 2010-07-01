@@ -1,0 +1,6 @@
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinnedModel\bin\x86\Debug\SkinnedModel.dll
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinnedModel\bin\x86\Debug\SkinnedModel.pdb
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinnedModel\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinnedModel\obj\x86\Debug\SkinnedModel.dll
+D:\Documents and Settings\Mirek Muzny\My Documents\Visual Studio 2008\Projects\SkinningSample\SkinnedModel\obj\x86\Debug\SkinnedModel.pdb
